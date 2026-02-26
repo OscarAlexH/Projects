@@ -1,0 +1,10 @@
+"./CommonTerminalInterface.obj"
+"./clock.obj"
+"./debug (1).obj"
+"./main.obj"
+"./pwm.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart0 (1).obj"
+"./uart1.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
