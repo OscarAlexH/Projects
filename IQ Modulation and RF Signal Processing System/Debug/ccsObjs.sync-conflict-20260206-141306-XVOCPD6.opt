@@ -1,0 +1,13 @@
+"./CommonTerminalInterface.obj"
+"./clock80.obj"
+"./debug.obj"
+"./gpio.obj"
+"./main.obj"
+"./nvic.obj"
+"./spi1.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"./wd0.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
